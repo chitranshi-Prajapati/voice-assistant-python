@@ -1,5 +1,5 @@
 🧠 Jarvis - Your Personal AI Voice Assistant
-👨‍💻 Created by Devang Saxena
+👨‍💻 Created by Chitranshi Prajapati
 
 Jarvis is an AI-powered personal voice assistant built using Python. It listens to your commands, understands them using speech recognition, and performs smart actions such as opening apps, fetching news, playing music, and even chatting intelligently using Google Gemini AI.
 
@@ -79,8 +79,9 @@ Problem Solving
 
 📬 Contact
 
-Email: dev62767@gmail.com
+Email: chitranshiprajapati7@gmail.com
 
-LinkedIn: linkedin.com/in/devangsaxena
+LinkedIn: https://www.linkedin.com/in/chitranshi-prajapati-723b60396/
 
-GitHub: github.com/dev62767-beep
+
+GitHub: https://github.com/chitranshi-Prajapati
